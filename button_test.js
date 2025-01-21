@@ -5,5 +5,3 @@ function placeOrder() {
 const buttonHTML = document.querySelector('.button_1');
 console.log(buttonHTML)
 document.querySelector('.button_1').addEventListener('click', placeOrder);
-
-console.log("Hello you")
